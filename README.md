@@ -1,5 +1,4 @@
-# React File Explorer
-
+# React File Explorer 🗂️
 A simple file explorer built with React that allows users to navigate directories, view files, and perform basic file operations such as creating, deleting, and renaming files/folders. The file system is represented using a JSON structure.
 
 ## Features
