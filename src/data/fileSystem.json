@@ -1,0 +1,34 @@
+{
+    "name": "root",
+    "type": "folder",
+    "children": [
+        {
+            "name": "Documents",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "resume.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "notes.txt",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "Images",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "photo.jpg",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "README.md",
+            "type": "file"
+        }
+    ]
+}
