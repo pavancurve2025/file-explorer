@@ -1,12 +1,11 @@
-# React + Vite
+# React File Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple file explorer built with React that allows users to navigate directories, view files, and perform basic file operations such as creating, deleting, and renaming files/folders. The file system is represented using a JSON structure.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Tree-like Directory Structure**: Navigate through directories using expandable folders.
+- **File Operations**: Create new files/folders, delete files/folders.
+- **File Viewing**: View file details (name and type) by clicking on them.
+- **Responsive UI**: Works across different screen sizes.
+- **Error Handling**: Clear validation and error messages for file operations.
